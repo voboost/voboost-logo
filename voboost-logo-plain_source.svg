@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10000 10000">
-    <circle cx="5000" cy="5000" r="5000" fill="rgba(0,0,0,.1)"/>
+    <!-- background -->
+    <circle cx="5000" cy="5000" r="5000" fill="#000" fill-opacity=".1"/>
 
     <!-- center top -->
     <path d="M4164 6163q7-6 1795-1696a170 170 0 0 0 54-137l-20-294a34 34 0 0 0-32-32l-292-21a170 170 0 0 0-137 53L3837 5835c164 131 264 246 328 330"/>

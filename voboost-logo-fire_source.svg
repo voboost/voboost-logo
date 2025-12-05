@@ -8,8 +8,9 @@
         <linearGradient id="e" href="#z" x1="4172" x2="3133" y1="7150" y2="7150" gradientUnits="userSpaceOnUse"/>
     </defs>
 
-    <!--<circle cx="5000" cy="5000" r="5000" fill="#000"/>-->
-    <rect style="width:10000px;height:10000px;fill:rgba(0,0,0,.1)"/>
+    <!-- background -->
+    <!--<circle cx="5000" cy="5000" r="5000" fill="#000" fill-opacity=".1"/>-->
+    <rect x="0" y="0" width="10000" height="10000" fill="#000" fill-opacity=".1"/>
 
     <!-- center top -->
     <path d="M4164 6163q7-6 1795-1696a170 170 0 0 0 54-137l-20-294a34 34 0 0 0-32-32l-292-21a170 170 0 0 0-137 53L3837 5835c164 131 264 246 328 330"/>
