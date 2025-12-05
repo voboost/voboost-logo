@@ -6,7 +6,7 @@ Official logo assets for the voboost project.
 
 | Image                                 | File                   | Description                        |
 |---------------------------------------|------------------------|------------------------------------|
-| ![Default logo](voboost-logo-fire.svg)| voboost-logo.svg       | Default variant for any use        |
+| ![Default logo](voboost-logo.svg)     | voboost-logo.svg       | Default variant for any use        |
 | ![Team logo](voboost-logo-team.svg)   | voboost-logo-team.svg  | Team chat version                  |
 | ![Plain logo](voboost-logo-plain.svg) | voboost-logo-plain.svg | Plain logo ready for variants      |
 
